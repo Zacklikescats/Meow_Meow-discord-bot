@@ -7,7 +7,7 @@ npm init -y<br>
 npm i discord.js<br>
 npm i dotenv
 
-Frequently run these scripts to keep this bot up to date.
+Frequently run these installs to keep this bot up to date.
 
     //meows in every channel
     setInterval(() => {
